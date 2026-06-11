@@ -5,7 +5,7 @@ A JavaScript project that dynamically generates YouTube-style video cards.
 ## 🚀 Live Project Preview
 
 <p align="center">
-  <img src="card.png" alt="Project Preview" width="90%">
+  <img src="preview.png" alt="Project Preview" width="90%">
 </p>
 
 ## 📌 About the Project
