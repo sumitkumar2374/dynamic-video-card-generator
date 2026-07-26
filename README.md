@@ -1,5 +1,7 @@
 # Here are the commit list for contributon graph
 
+- 1st/2nd commit
+
 ---
 
 # 🎬 Dynamic YouTube Video Card Generator
