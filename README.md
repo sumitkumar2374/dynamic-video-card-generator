@@ -1,11 +1,3 @@
-# Here are the commit list for contributon graph
-
-- 1st/2nd commit
-- 3rd commit list is attaching some imp files in file
-- 4th commir list is the ```preview ```
-
----
-
 # 🎬 Dynamic YouTube Video Card Generator
 
 A JavaScript project that dynamically generates YouTube-style video cards.
