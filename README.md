@@ -1,5 +1,7 @@
 # 🎬 Dynamic YouTube Video Card Generator
 
+# Here are the commit list for contribution graph
+
 A JavaScript project that dynamically generates YouTube-style video cards.
 
 ## 🚀 Live Project Preview
