@@ -1,12 +1,5 @@
 # 🎬 Dynamic YouTube Video Card Generator
 
-# Here are the commit list for contribution graph
-
-- 1st/2nd commit
-- 3rd commit list is the attaching some imp file ```main ```
-- 4th commit list is the changes
-- 5th commit list is the fix some problem
-
 A JavaScript project that dynamically generates YouTube-style video cards.
 
 ## 🚀 Live Project Preview
