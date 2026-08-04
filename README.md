@@ -2,6 +2,8 @@
 
 # Here are the commit list for contribution graph
 
+- 1st/2nd commit
+
 A JavaScript project that dynamically generates YouTube-style video cards.
 
 ## 🚀 Live Project Preview
